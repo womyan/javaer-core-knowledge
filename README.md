@@ -20,4 +20,4 @@
 * 项目管理
 * ...
 
-以上内容会逐步完善或者修改
+以上内容会逐步完善或者修改.[Gitbook同步更新](https://womyan.gitbook.io/javaer-core-knowledge/)
